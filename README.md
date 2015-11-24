@@ -1,1 +1,1 @@
-/src/pillar
+`/srv/pillar`
